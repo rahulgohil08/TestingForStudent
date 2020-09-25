@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestingForStudent</string>
+    <string name="text1">Hello1</string>
+    <string name="text2">Hello2</string>
+
+
+    <string-array name="city">
+
+        <item>Vadodara</item>
+        <item>Rajkot</item>
+        <item>Surat</item>
+        <item>Ahmedabad</item>
+
+    </string-array>
+
+</resources>
